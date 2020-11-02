@@ -21,6 +21,14 @@ Little helpers for little 5e tasks.
 - GM only, global
 - For abilities with a "d6 recharge" on every turn.
 
+### Auto-update item proficiencies on addition to actors sheets.
+- Global setting
+- This will check the actors proficiencies when an item is added to their sheet and if they are proficient, it will automaticly update in their inventory.
+
+### Great Wounds 
+- Global setting
+- Will auto-roll on a user specified table if a token takes more than 50% of its max hp value in a single application of damage
+
 ## Upcoming  Features
 - Tides of Chaos recharge
 - Elemental Adept
